@@ -1,0 +1,24 @@
+date,description,category,amount,type
+2026-07-02,Salary,Income,3200.00,income
+2026-07-03,Rent,Housing,-900.00,expense
+2026-07-05,Groceries,Food,-120.50,expense
+2026-07-08,Netflix,Entertainment,-15.99,expense
+2026-07-10,Uber,Transport,-32.00,expense
+2026-07-15,Freelance Gig,Income,450.00,income
+2026-07-18,Restaurant,Food,-65.00,expense
+2026-07-20,Electricity Bill,Bills,-80.00,expense
+2026-08-01,Salary,Income,3200.00,income
+2026-08-03,Rent,Housing,-900.00,expense
+2026-08-06,Groceries,Food,-140.20,expense
+2026-08-09,Gym Membership,Health,-40.00,expense
+2026-08-12,Uber,Transport,-28.00,expense
+2026-08-15,Freelance Gig,Income,300.00,income
+2026-08-19,Phone Bill,Bills,-45.00,expense
+2026-08-22,Concert Tickets,Entertainment,-90.00,expense
+2026-09-01,Salary,Income,3200.00,income
+2026-09-04,Rent,Housing,-900.00,expense
+2026-09-07,Groceries,Food,-135.75,expense
+2026-09-11,Uber,Transport,-30.00,expense
+2026-09-14,Freelance Gig,Income,500.00,income
+2026-09-17,Internet Bill,Bills,-55.00,expense
+2026-09-20,Dinner Out,Food,-48.00,expense
